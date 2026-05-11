@@ -21,4 +21,4 @@ Numpy | Pandas | scikit-learn | PostgreSQL
 xranano.ge
 
 
-![Anano's GitHub stats](https://github-readme-stats.vercel.app/api?username=xranano&show_icons=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ML+Engineer;Georgian+NLP+Researcher;Deep+Learning+Enthusiast)](https://git.io/typing-svg)
