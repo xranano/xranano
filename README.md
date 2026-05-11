@@ -46,28 +46,9 @@
 
 ---
 
-### 📊 stats
-
-<div align="center">
-
-![Anano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xranano&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xranano&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=xranano&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🤝 kudos
 
 feel free to fork, star, or use anything here.  
 if you build on my georgian NLP work especially — i'd love to know, tag me or drop an issue! 🇬🇪
 
----
 
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=xranano.xranano)
-
-</div>
