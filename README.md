@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Anano 👋
 
-<!--
-**xranano/xranano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad @ Kutaisi International University  
+ML/AI Engineer focused on Deep Learning & NLP  
+Currently building multi-agent AI systems @ Meama
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Python | PyTorch | SQL | JavaScript | C++
+Numpy | Pandas | scikit-learn | PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- Multi-agent AI orchestration system (25+ agents)
+- Georgian language NLP research
+
+## 🧠 Featured Research
+- Georgian Word-Level Spellchecker (seq2seq, novel NLP)
+- Image Captioning from scratch (CNN-RNN encoder-decoder)
+- Multi-task Neural Network (joint regression + classification)
+
+## 🌐 Portfolio
+xranano.ge
