@@ -19,3 +19,6 @@ Numpy | Pandas | scikit-learn | PostgreSQL
 
 ## 🌐 Portfolio
 xranano.ge
+
+
+![Anano's GitHub stats](https://github-readme-stats.vercel.app/api?username=xranano&show_icons=true)
