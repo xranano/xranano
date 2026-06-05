@@ -1,7 +1,6 @@
 <div align="center">
 
-გამარჯობა 🎀 welcome to my github! I'm an ML engineer
-researching Georgian NLP and building AI systems 🪄
+მაშ გამარჯობა ძმობილო! 🪄
 
 <img src="./assets/avatar.gif" width="300"/>
 
